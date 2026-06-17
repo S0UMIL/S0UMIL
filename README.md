@@ -1,21 +1,27 @@
-# ⭐ About Me:
-<br>🔭 I’m currently working on<br><br>-->Building a strong foundation in Data Structures & Algorithms using Python<br><br>-->Solving curated LeetCode problems with emphasis on clean logic and time complexity<br><br>-->Developing small Python projects to strengthen problem-solving and code structure <br>👯 I’m looking to collaborate on<br>-->Beginner-friendly Python projects<br><br>-->DSA practice (problem discussions, optimizations, alternative approaches)<br><br>-->Open-source projects where I can contribute documentation, testing, or simple features<br>🤝 I’m looking for help with<br>-->Improving algorithmic thinking and solution optimization<br><br>-->Best practices for writing readable and maintainable code<br><br>-->Guidance on project ideas suitable for first-year CS students<br>🌱 I’m currently learning<br>-->Python (advanced concepts & problem solving)<br><br>-->Data Structures & Algorithms<br><br>-->NumPy and core Machine Learning fundamentals<br><br>-->Basics of Git, GitHub, and collaborative development workflows<br>🎯 Long-term goal: Software Engineering roles in high-performance computing, AI, or system-level development.<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumiltiwary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumil.tiwary@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-
-
-
-
-
-
+<h1 align="center">Hi, I'm Soumil</h1>
+<h3 align="center">CSE Student | Exploring Gen AI & LLM Engineering</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=S0UMIL&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a first-year Computer Science Engineering student building hands-on skills in Generative AI and LLM-based application development. I work mainly with LangChain and Ollama to build local LLM pipelines, and I'm currently developing an automated design/project report generator that takes structured input and produces formatted Word documents using AI-generated content. I enjoy understanding systems at the level of how data actually flows through them, not just getting code to run.
+
+---
+
+### 🛠️ Tech Stack
+
+**TECH STACK**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+- **[LLM](https://github.com/S0UMIL/LLM)** — Gen AI mini-projects: RAG pipelines, LangChain experiments, and an automated report generator
+
