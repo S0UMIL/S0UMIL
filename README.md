@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Soumil</h1>
-<h3 align="center">CSE Student | Exploring Gen AI & LLM Engineering</h3>
+# Hi, I'm Soumil
+### CSE Student | Exploring Gen AI & LLM Engineering
 
 ---
 
@@ -19,8 +19,6 @@ I'm a first-year Computer Science Engineering student building hands-on skills i
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
 
 ### 📌 Featured Projects
 - **[LLM](https://github.com/S0UMIL/LLM)** — Gen AI mini-projects: RAG pipelines, LangChain experiments, and an automated report generator
