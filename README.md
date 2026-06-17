@@ -1,5 +1,4 @@
-# Hi, I'm Soumil
-### CSE Student | Exploring Gen AI & LLM Engineering
+### Hi, I'm Soumil
 
 ---
 
