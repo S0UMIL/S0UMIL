@@ -2,7 +2,10 @@
 
 ---
 
-I'm a first-year Computer Science Engineering student building hands-on skills in Generative AI and LLM-based application development. I work mainly with LangChain and Ollama to build local LLM pipelines, and I'm currently developing an automated design/project report generator that takes structured input and produces formatted Word documents using AI-generated content. I enjoy understanding systems at the level of how data actually flows through them, not just getting code to run.
+- First-year Computer Science Engineering student building hands-on skills in Generative AI and LLM-based application development
+- Work mainly with LangChain and Ollama to build local LLM pipelines
+- Currently developing an automated design/project report generator that takes structured input and produces formatted Word documents using AI-generated content
+- Focused on understanding how systems actually work end-to-end, not just getting code to run
 
 ---
 
