@@ -13,7 +13,6 @@
 
 **TECH STACK**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
