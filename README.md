@@ -11,7 +11,6 @@
 
 ### 🛠️ Tech Stack
 
-**TECH STACK**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
