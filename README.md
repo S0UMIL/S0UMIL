@@ -18,7 +18,7 @@
 ![PEFT](https://img.shields.io/badge/PEFT-LoRA-blue?style=flat)
 ![BitsAndBytes](https://img.shields.io/badge/QLoRA-4bit-black?style=flat)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-8A2BE2?style=for-the-badge)
+![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-8A2BE2?style=flat-square)
 
 ## 📌 Featured Projects
 
